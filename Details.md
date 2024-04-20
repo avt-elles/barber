@@ -1,1 +1,0 @@
-Senha --> Supabse aq6W2hWsrLqLveWR
