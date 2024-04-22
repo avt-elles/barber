@@ -1,3 +1,5 @@
+import { format } from "date-fns";
+
 const Footer = () => {
   return (
     <div className="w-full bg-secondary p-6">
