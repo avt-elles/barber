@@ -40,9 +40,7 @@ const BarberShopItem = ({ barbershop }: BarberShopItemProps) => {
           <p className="text-sm text-gray-400 overflow-hidden text-ellipsis text-nowrap">
             {barbershop.address}
           </p>
-          <Button variant="secondary" className="w-full mt-3">
-            Agendar Horário
-          </Button>
+          <Button className="w-full mt-3 font-bold">Agendar Horário</Button>
         </div>
       </CardContent>
     </Card>
